@@ -1,3 +1,5 @@
-1 + 1
+loneliest_Number = 1 + 1
 
-1 + "is the loneliest number"
+optine_number = 1 + loneliest_Number
+
+p (optine_number)
